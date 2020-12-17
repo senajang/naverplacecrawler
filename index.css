@@ -15,12 +15,12 @@ body {
     width: 1000px;
     position: relative;
     left: 22%;
-    margin-left: 50x;
+    margin-left:0%;
 }
 .image-slide {
     width: 1000px;
     height: 600px;
-    margin: 10px;
+    margin: 0px;
     margin-top: 80px;
 }
 .item-list {
@@ -30,14 +30,14 @@ body {
     width: 250px;
     height: 250px;
     margin: 10px;
-    margin-left: 450px;
+    margin-left: 25%;
     border: 1px solid #dbdbdb;
 }
 .item-list>.item-set {
     margin-left: 0px;
 }
 .item-list>.item05 {
-    margin-left: 450px;
+    margin-left: 25%;
 }
 .footer {
     width: 100%;
