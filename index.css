@@ -20,7 +20,7 @@ body {
 .image-slide {
     width: 1000px;
     height: 600px;
-    margin: 0px;
+    margin: 10px auto;
     margin-top: 80px;
 }
 .item-list {
@@ -29,15 +29,14 @@ body {
 .item-list>.item {
     width: 250px;
     height: 250px;
-    margin: 10px;
-    margin-left: 25%;
+    margin: 5px auto;
     border: 1px solid #dbdbdb;
 }
 .item-list>.item-set {
-    margin-left: 0px;
+    margin: 5px auto;
 }
 .item-list>.item05 {
-    margin-left: 25%;
+    margin: 5px auto;
 }
 .footer {
     width: 100%;
@@ -53,9 +52,7 @@ body {
     right: 0;
     left: auto;
 }
-.container-custom>.image-slide {
-    
-}
+
 .item-image {
     position: relative;
     top: 0px;
@@ -100,8 +97,6 @@ body {
     margin-bottom: 50px;
     border-top: 1px solid #dbdbdb;
 }
-/* css end */
-/* POWERED BY CODEPEN */
 
 #carousel {
   position: relative;
@@ -173,6 +168,4 @@ body {
 }
 #carousel div.nextRightSecond img {
   width: 200px;
-}
-.codepen-carousel {
 }
